@@ -1,0 +1,8 @@
+* text=auto
+
+/_config.yml        export-ignore
+/.editorconfig      export-ignore
+/.gitattributes     export-ignore
+/.github            export-ignore
+/.gitignore         export-ignore
+/.php_cs.dist       export-ignore

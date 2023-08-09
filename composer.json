@@ -1,0 +1,43 @@
+{
+  "name": "vinothvipin/lumenArtisanService",
+  "type": "library",
+  "description": "Adds Laravel Package Support in Lumen.",
+  "keywords": [
+    "laravel",
+    "laravel lumen support",
+    "lumen packages",
+    "laravel packages",
+    "lumen support",
+    "larasupport",
+    "laravel package support"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "vinothvipin",      
+      "homepage": "https://github.com/vinothvipin"
+    }
+  ],
+  "require": {
+    "league/flysystem": "^3.15.1"
+  },
+  "config": {
+    "preferred-install": "dist",
+    "sort-packages": true
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "2.0-dev"
+    }
+  },
+  "autoload": {
+    "psr-4": {
+      "vinothvipin\\lumenArtisanService\\": "src/"
+    },
+    "files": [
+      "src/helpers.php"
+    ]
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
