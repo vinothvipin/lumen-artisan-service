@@ -1,5 +1,5 @@
 {
-  "name": "vinothvipin/lumenArtisanService",
+  "name": "vinothvipin/lumen-artisan-service",
   "type": "library",
   "description": "Adds Laravel Package Support in Lumen.",
   "keywords": [

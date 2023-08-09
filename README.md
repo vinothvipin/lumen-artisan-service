@@ -1,13 +1,4 @@
-[![Larasupport][img-hero]][link-repo]
-
-[![Join PHP Chat][ico-phpchat]][link-phpchat]
-[![Chat on Telegram][ico-telegram]][link-telegram]
-[![Package for Lumen][ico-package]][link-repo]
-[![Latest Version on Packagist][ico-version]][link-packagist]
-[![Software License][ico-license]][link-license]
-[![Total Downloads][ico-downloads]][link-downloads]
-
-# Larasupport Package
+ # Larasupport Package
 
 > **Laravel Package Support for Lumen:** Makes Lumen compatible with Laravel Packages. You can use any Laravel Packages in Lumen by installing **Larasupport** Package.
 >
